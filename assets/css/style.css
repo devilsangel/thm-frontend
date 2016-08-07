@@ -117,23 +117,29 @@ a:hover {
 }
 
 .hero-slide {
-  background-image: url("http://uploads.webflow.com/55f136e3684d4f9831291da5/55dee64f6576ad447eadb8d4_Photo-6.jpg");
+  background-image: url("../images/p1.jpg");
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .hero-slide._2 {
-  background-image: url("http://uploads.webflow.com/55f136e3684d4f9831291da5/55deefea1106f8437e438968_Photo-5.jpg");
+  background-image: url("../images/p2.jpg");
   background-size: cover;
 }
 
 .hero-slide._3 {
-  background-image: url("http://uploads.webflow.com/55f136e3684d4f9831291da5/55df1dfa80d69d995c0a4e4a_Photo-7.jpg");
+  background-image: url("../images/p3.jpg");
   background-size: cover;
 }
 
 .hero-slide._4 {
-  background-image: url("http://uploads.webflow.com/55f136e3684d4f9831291da5/55deefdd80d69d995c0a4115_Photo-4.jpg");
+  background-image: url("../images/mm.jpg");
+}
+.hero-slide._5 {
+  background-image: url("../images/rr.jpg");
+}
+.hero-slide._6 {
+  background-image: url("../images/plc.jpg");
 }
 
 .hero-slide-overlay {
@@ -343,7 +349,7 @@ a:hover {
   position: relative;
   overflow: hidden;
   height: 105px;
-  padding-right: 170px;
+  /*padding-right: 170px;*/
   border-radius: 3px;
   background-color: #fff;
   box-shadow: 0 0 9px 0 rgba(0, 0, 0, .16);
